@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Grid 3D - Tactical Tower Defense",
+  "description": "An open-field 3D tactical tower defense game featuring real-time A* pathfinding, procedural 3D turrets, synthesized procedural Web Audio sound effects, and polish animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
